@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository involves analyzing two datasets from the Food and Agriculture Organization (FAO) and FAOSTAT, focusing on global agricultural production and food statistics. The developers used Python and data analysis libraries like Pandas, Matplotlib, Seaborn, Numpy, PyCountry, and Plotly libraries.
+This repository contains the first assessment for our **CSELEC3C - Data Analysis and Visualization** course. It involves analyzing two datasets from the Food and Agriculture Organization (FAO) and FAOSTAT, focusing on global agricultural production and food statistics. The developers used Python and data analysis libraries like Pandas, Matplotlib, Seaborn, Numpy, PyCountry, and Plotly.
 
 ## Key Features
 
